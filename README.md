@@ -1,2 +1,2 @@
-# smth
-<H1>hello world</H1>
+# And after two hours of "brain-burning" it finally works!
+<H1>Hello world</H1>
